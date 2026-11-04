@@ -51,9 +51,9 @@ class KailashNatarajan:
 🎓 **First-Year CSE Core** @ SRM IST Tiruchirappalli  
 🏆 **4th Place** at YUVA SRM Trichy *VibeCraft Hackathon*  
 🩺 **Top 10 Winner** at *Medaithon 2026* (Code 4 Cure)  
-🧩 **100+ Problems Solved** on LeetCode  
+🔥 **85+ Days Daily Streak** on LeetCode  
+🧩 **115+ Problems Solved** across algorithmic topics  
 🔬 **Creator** of *PelviCoach* & *Zeff Calculator*  
-⚡ **Driven by** AI/ML, problem-solving & rapid prototyping  
 
 ### 📬 **Get in Touch**
 
@@ -87,9 +87,9 @@ Recognized for rapid problem solving, clean system design, and high-impact funct
 </td>
 <td width="33%" align="center">
 
-### 🎯 **100+ LeetCode Milestone**
+### 🔥 **85+ Day Streak**
 **Algorithmic Consistency**  
-Consistently practicing and mastering Data Structures and Algorithms with 100+ solved algorithmic challenges.
+Consistently practicing Data Structures & Algorithms every single day with 115+ problems solved and active badges.
 
 </td>
 </tr>
@@ -160,37 +160,23 @@ Consistently practicing and mastering Data Structures and Algorithms with 100+ s
 
 ---
 
-## 🏅 Competitive Programming
+## 🏅 Competitive Programming & LeetCode Progress
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://leetcode.com/u/kailashkanth/">
-<img src="https://img.shields.io/badge/LeetCode-kailashkanth-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-<br><br>
-<img src="https://img.shields.io/badge/100%2B-Problems%20Solved-FFA116?style=flat-square&labelColor=black" alt="LeetCode Problems"/>
-<br>
-<img src="https://img.shields.io/badge/Consistent-Problem%20Solver-FFA116?style=flat-square&labelColor=black" alt="LeetCode Status"/>
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://codeforces.com/profile/kailashnatarajan">
-<img src="https://img.shields.io/badge/Codeforces-kailashnatarajan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-<br><br>
-<img src="https://img.shields.io/badge/Active-Contestant-1F8ACB?style=flat-square&labelColor=black" alt="Codeforces Status"/>
-<br>
-<img src="https://img.shields.io/badge/C%2B%2B%20%2F%20Python-Problem%20Solving-1F8ACB?style=flat-square&labelColor=black" alt="Languages"/>
-</a>
-</td>
-</tr>
-</table>
+### ⚡ **Live LeetCode Streak & Consistency**
 
-<br>
+[![LeetCode Solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fkailashkanth%2Fsolved&query=%24.solvedProblem&suffix=%20Solved&label=LeetCode&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kailashkanth/)
+[![LeetCode Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fkailashkanth%2Fcalendar&query=%24.streak&prefix=%F0%9F%94%A5%20&suffix=%20Days%20Streak&label=Current%20Streak&color=FF6B00&style=for-the-badge)](https://leetcode.com/u/kailashkanth/)
+[![Active Days](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fkailashkanth%2Fcalendar&query=%24.totalActiveDays&suffix=%20Days%20Active&label=Consistency&color=00D9FF&style=for-the-badge)](https://leetcode.com/u/kailashkanth/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-kailashnatarajan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kailashnatarajan)
+
+<br/><br/>
+
+### 📈 **52-Week LeetCode Activity Heatmap & Breakdown**
 
 <a href="https://leetcode.com/u/kailashkanth/">
-  <img src="https://leetcard.jacoblin.cool/kailashkanth?theme=dark&font=Fira%20Code" alt="LeetCode Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/kailashkanth?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Activity Heatmap & Stats" />
 </a>
 
 </div>
@@ -202,8 +188,8 @@ Consistently practicing and mastering Data Structures and Algorithms with 100+ s
 <div align="center">
 
 <a href="https://github.com/kailashnatarajan">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kailashnatarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kailashnatarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kailashnatarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kailashnatarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/><br/>
