@@ -202,8 +202,8 @@ Consistently practicing and mastering Data Structures and Algorithms with 100+ s
 <div align="center">
 
 <a href="https://github.com/kailashnatarajan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kailashnatarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashnatarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kailashnatarajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kailashnatarajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/><br/>
@@ -249,7 +249,7 @@ Consistently practicing and mastering Data Structures and Algorithms with 100+ s
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Thanks+for+stopping+by!+Let's+connect+and+build+great+things+🚀;Always+open+to+collaborations+and+exciting+projects;Reach+out+anytime!+👋" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Thanks+for+stopping+by!+Let%27s+connect+and+build+great+things;Always+open+to+collaborations+and+exciting+projects;Reach+out+anytime!" alt="Footer Typing" />
 
 **Designed with ❤️ and ☕ by Kailash Natarajan**
 
