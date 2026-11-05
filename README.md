@@ -35,7 +35,7 @@ class KailashNatarajan:
         ]
         self.current_explorations = [
             "Machine Learning / AI",
-            "FastAPI & SQL",
+            "FastAPI",
             "Competitive Programming"
         ]
 
