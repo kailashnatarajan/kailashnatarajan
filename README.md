@@ -51,7 +51,7 @@ class KailashNatarajan:
 🎓 **First-Year CSE Core** @ SRM IST Tiruchirappalli  
 🏆 **4th Place** at YUVA SRM Trichy *VibeCraft Hackathon*  
 🩺 **Top 10 Winner** at *Medaithon 2026* (Code 4 Cure)  
-🔥 **85+ Days Daily Streak** on LeetCode  
+🔥 **88+ Days Daily Streak** on LeetCode  
 🧩 **115+ Problems Solved** across algorithmic topics  
 🔬 **Creator** of *PelviCoach* & *Zeff Calculator*  
 
